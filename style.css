@@ -1,0 +1,28 @@
+body {
+    padding-top: 70px;
+}
+
+
+.navbar-nav a {
+    color: white;
+  }
+
+.navbar-nav a:active {
+    color: rgb(139, 139, 139);
+  }
+
+.navbar-nav a:hover {
+    color: rgb(139, 139, 139);
+  }
+
+.navbar-brand {
+    color: white;
+  }
+  
+.navbar-brand:hover {
+    color: white;
+  }
+
+.navbar-toggler {
+    color: white;
+}
