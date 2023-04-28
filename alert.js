@@ -1,0 +1,1 @@
+window.alert('Alert. Our project bodyguard for hire has been terminated.');
